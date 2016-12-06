@@ -1,0 +1,101 @@
+/* <![CDATA[ */
+
+/*
+##################################################
+#                                                #
+#       Blood Sweat & Code (& Rock'N'Roll)       #
+#      Thanx for looking at the source code      #
+#                                                #
+#                eosgarden © 2010                #
+#                                                #
+##################################################
+*/
+
+BODY {
+    margin:                 0px;
+    color:                  #666666;
+    font-style:             normal;
+    font-weight:            normal;
+    font-size:              15px;
+    line-height:            20px;
+    text-decoration:        none;
+    font-family:            "Myriad Pro", Myriad, Arial, Helvetica, Verdana, Geneva, Swiss, SunSans-Regular, sans-serif;
+    background-color:       #000000;
+    text-shadow:            5px 5px 5px #000000;
+
+}
+
+H1 {
+    color:                  #FFFFFF;
+    font-style:             normal;
+    font-weight:            bold;
+    font-size:              50px;
+    line-height:            normal;
+    margin:                 0px;
+    padding:                0px;
+    text-align:             left;
+    text-shadow:            5px 5px 5px #000000;
+}
+
+H2 {
+    color:                  #FFFFFF;
+    font-style:             normal;
+    font-weight:            bold;
+    font-size:              20px;
+    line-height:            normal;
+    margin:                 0px;
+    padding:                0px;
+    text-align:             left;
+    text-shadow:            5px 5px 5px #000000;
+}
+
+H3 {
+    color:                  #FFFFFF;
+    font-style:             normal;
+    font-weight:            bold;
+    font-size:              15px;
+    line-height:            normal;
+    margin:                 0px;
+    padding:                0px;
+    text-align:             left;
+    text-shadow:            5px 5px 5px #000000;
+}
+
+A {
+    text-decoration:        none;
+}
+
+A:link {
+    color:                  #666666;
+    font-weight:            normal;
+    text-decoration:        none;
+}
+
+A:visited {
+    color:                  #666666;
+    font-weight:            normal;
+    text-decoration:        none;
+}
+
+A:hover {
+    color:                  #FFFFFF;
+    font-weight:            normal;
+    text-decoration:        underline;
+}
+
+A:active {
+    color:                  #FFFFFF;
+    font-weight:            normal;
+    text-decoration:        underline;
+}
+
+IMG {
+    border:                 none;
+}
+
+.white {
+    color:                  #FFFFFF;
+}
+
+/* ]]> */
+
