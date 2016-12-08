@@ -8,7 +8,7 @@ codeine-app.com
 About
 -----
 
-Old website for the [Codeine application project](http://www.xs-labs.com/en/projects/codeine/overview/).
+Old website for the [Codeine application project](http://www.xs-labs.com/en/projects/codeine/overview/): http://codeine.archives.xs-labs.com
 
 Repository Infos
 ----------------
